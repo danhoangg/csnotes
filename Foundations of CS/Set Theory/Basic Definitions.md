@@ -30,4 +30,5 @@ A predicate $\varphi(x)$ is something that is either true or false about a membe
 - $\varphi(x)$ = "x is an apple" is a predicate in the universe of fruit
 
 Importantly, a predicate is written in this format:
+#### $\set{x \mid x \in X\; \&\; \varphi(x) \,}$
 - 
