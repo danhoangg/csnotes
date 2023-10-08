@@ -1,2 +1,4 @@
 - [[Basic Definitions]]
+- [[Reasoning About Sets]]
+- [[Functions]]
 - [[Exercise Sheet 1]]

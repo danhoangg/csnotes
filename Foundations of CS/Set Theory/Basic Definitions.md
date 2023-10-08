@@ -31,4 +31,17 @@ A predicate $\varphi(x)$ is something that is either true or false about a membe
 
 Importantly, a predicate is written in this format:
 #### $\set{x \mid x \in X\; \&\; \varphi(x) \,}$
-- 
+- $\set{x \mid x \in \mathbb{N}\; \&\; \text{x is even} \,} = \set{0,2,4,...}$
+- $\set{x \mid x \in \mathbb{R}\; \&\; x^2+x-6=0}=\set{2.0, -3.0}$
+
+#### Therefore:
+- $X \cup Y = \set{z \mid z \in X\; \text{or}\; z \in Y}$
+	- Associative ($X \cup (Y \cup Z) = (X\cup Y)\cup Z$)
+	- Commutative ($X\cup Y=Y\cup X$)
+- $X \cap B = \set{z \mid z \in X\; \text{and}\; z \in Y}$
+	- Associative and commutative
+- $X-Y = \set{z \mid z \in X\; \text{and}\; z \notin Y}$
+	- Not associative and not commutative
+
+
+Next: [[Reasoning About Sets]]

@@ -1,2 +1,3 @@
 - [[History of Computers]]
 - [[Digital Electronics Intro]]
+- [[Flip flops and Registers]]
