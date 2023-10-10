@@ -42,3 +42,6 @@ $\therefore x\in (X\cap Y)\cup(X\cap Z)$
 	- $P(\set{a,b,c})=\set{\varnothing,\set{a},\set{b},\set{c},\set{a,b},\set{a,c},\set{b,c},\set{a,b,c}}$
 	- $PP(\varnothing)=P(\set{\varnothing})=\set{\varnothing, \set{\varnothing}}$
 	- $|P(X)|=2^{|X|}$
+
+
+Next: [[Functions]]

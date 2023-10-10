@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12a4371cc623d6d3",
+        "id": "2194014a0f0b402a",
         "type": "tabs",
         "children": [
           {
-            "id": "d512be9b4d4f4d21",
+            "id": "10ee2de899189e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functions.md",
+                "file": "Programming 1/Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,12 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "599c71aabb075e1c",
+            "id": "7f154376c71ba472",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functions.md",
+                "file": "Programming 1/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functions.md",
+                "file": "Programming 1/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functions.md"
+                "file": "Programming 1/Java.md"
               }
             }
           }
@@ -146,35 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d512be9b4d4f4d21",
+  "active": "10ee2de899189e8f",
   "lastOpenFiles": [
-    "Foundations of CS/Set Theory/Set Theory.md",
-    "Functions.md",
-    "Foundations of CS/Set Theory/Basic Definitions.md",
-    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
-    "Foundations of CS/Set Theory/Reasoning About Sets.md",
-    "Computer Systems 1/Flip flops and Registers.md",
-    "Computer Systems 1/parallel serial.png",
-    "Computer Systems 1/Register copy.png",
-    "Computer Systems 1/Register.png",
+    "Programming 1/Java If statements.md",
+    "Computer Systems 1/Arithmetic.md",
+    "Computer Systems 1/xinkmap.png",
     "Computer Systems 1/Computer Systems 1.md",
+    "Computer Systems 1/Register copy.png",
+    "Foundations of CS/Set Theory/Reasoning About Sets.md",
+    "Foundations of CS/Set Theory/Functions.md",
+    "Foundations of CS/Set Theory/Screenshot 2023-10-09 at 15.01.17.png",
+    "Foundations of CS/Set Theory/Composition.png",
+    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
+    "Foundations of CS/Set Theory/Set Theory.md",
+    "Foundations of CS/Set Theory/Basic Definitions.md",
+    "Programming 1/Java.md",
+    "Computer Systems 1/parallel serial.png",
+    "Computer Systems 1/Register.png",
+    "Computer Systems 1/Flip flops and Registers.md",
     "Computer Systems 1/D-type flip flop.png",
     "Computer Systems 1/Digital Electronics Intro.md",
-    "Computer Systems 1/adder.png",
-    "Pasted image 20231005170305.png",
-    "Programming 1/Java.md",
-    "Programming 1/Java Loops.md",
-    "Programming 1/JVM.png",
-    "Programming 1/Programming 1.md",
-    "Programming 1/Java If statements.md",
     "Computer Systems 1/MOS transistor.png",
     "Computer Systems 1/OR hardware.png",
     "2023-10-05.md",
     "Untitled.canvas",
     "Computer Systems 1/AND hardware.png",
+    "Programming 1/Programming 1.md",
     "Foundations of CS/Set Theory",
     "Foundations of CS",
     "Programming 1",
-    "Computer Systems 1"
+    "Computer Systems 1",
+    "Programming 1/Java Loops.md"
   ]
 }

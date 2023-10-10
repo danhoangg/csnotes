@@ -5,6 +5,10 @@
 	3. 9
 	4. 2
 	5. 6
+2. 
+	1. $\set{x\mid x\in \mathbb{N}\; \&\; x \mod 7=0}$
+	2. $\set{x\mid 0 \leq x \leq 10}$
+	3. 
 
 
 
