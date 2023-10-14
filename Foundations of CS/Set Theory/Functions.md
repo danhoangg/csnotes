@@ -41,5 +41,16 @@ Given any set X there is an identity function $X→X$ denoted as $id_x$
 	- $f(f^{-1}(y))=y$
 - Therefore $f;f^{-1}=id_x$ and $f^{-1};f=id_y$
 
+#### Question:
+- Find sets X and Y, and functions $f : X→ Y$, $g: Y→ X$ such that $f;g ≠ id_x$ and $g;f ≠ id_y$
+	- let X and Y be $\set{0,1}$
+	- $f:X\to Y$ defined as $f(0)=1$, $f(1)=0$ 
+	- $g:X\to Y$ defined as $g(0)=0$, $g(1)=1$
+- Find sets X and Y, and functions $f : X→ Y,$ $g: Y→ X$ such that $f;g = id_x$ but $g;f ≠ id_y$
+	- let X = ${0}$ and Y = $\set{0,1}$
+	- $f:Z\to Y$ defined as $f(0)=0$
+	- $g:X\to Y$ defined as $g(0)=0$, $g(1)=0$
+
+
 
 

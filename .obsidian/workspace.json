@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming 1/Java.md",
+                "file": "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming 1/Java.md",
+                "file": "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming 1/Java.md",
+                "file": "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming 1/Java.md"
+                "file": "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "10ee2de899189e8f",
   "lastOpenFiles": [
+    "Foundations of CS/Set Theory/Functions.md",
+    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
+    "Foundations of CS/Set Theory/Set Theory.md",
+    "Foundations of CS/Set Theory/Reasoning About Sets.md",
+    "Foundations of CS/Set Theory/Screenshot 2023-10-09 at 15.01.17.png",
+    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
+    "Programming 1/Java.md",
     "Programming 1/Java If statements.md",
     "Computer Systems 1/Arithmetic.md",
     "Computer Systems 1/xinkmap.png",
     "Computer Systems 1/Computer Systems 1.md",
     "Computer Systems 1/Register copy.png",
-    "Foundations of CS/Set Theory/Reasoning About Sets.md",
-    "Foundations of CS/Set Theory/Functions.md",
-    "Foundations of CS/Set Theory/Screenshot 2023-10-09 at 15.01.17.png",
     "Foundations of CS/Set Theory/Composition.png",
-    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
-    "Foundations of CS/Set Theory/Set Theory.md",
     "Foundations of CS/Set Theory/Basic Definitions.md",
-    "Programming 1/Java.md",
     "Computer Systems 1/parallel serial.png",
     "Computer Systems 1/Register.png",
     "Computer Systems 1/Flip flops and Registers.md",
