@@ -52,5 +52,5 @@ Given any set X there is an identity function $X→X$ denoted as $id_x$
 	- $g:X\to Y$ defined as $g(0)=0$, $g(1)=0$
 
 
-
+Next: [[Taxonomy of functions and the isomorphism theorem]]
 
