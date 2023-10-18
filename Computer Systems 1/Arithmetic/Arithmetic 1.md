@@ -1,3 +1,7 @@
+Related:
+- [[Arithmetic 2]]
+- [[Arithmetic 3]]
+
 ### Algebra
 Operators operate on values to produce more values:
 - **Operators** are also called functions
@@ -25,3 +29,4 @@ Full Adder:
 - Takes A,B and carry as input and outputs result as well as carry out
 - If there are at least 2 1s then there will be a carry, therefore Cout = AB + ACin + BCin
 - The output can be added together therefore 3-input XOR
+

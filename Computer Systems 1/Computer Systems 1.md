@@ -1,4 +1,6 @@
 - [[History of Computers]]
 - [[Digital Electronics Intro]]
 - [[Flip flops and Registers]]
-- [[Arithmetic]] 
+- [[Arithmetic 1]] 
+- [[Arithmetic 2]] 
+- [[Arithmetic 3]] 
