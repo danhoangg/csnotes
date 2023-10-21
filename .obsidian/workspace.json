@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6e19b0d3303034c0",
+        "id": "2194014a0f0b402a",
         "type": "tabs",
         "children": [
           {
-            "id": "51c93b4000a2bee1",
+            "id": "10ee2de899189e8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems 1/Arithmetic/Arithmetic 3.md",
+                "file": "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d926128901690c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foundations of CS/Logic/Semantics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,12 +93,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "599c71aabb075e1c",
+            "id": "7f154376c71ba472",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Systems 1/Arithmetic/Arithmetic 3.md",
+                "file": "Foundations of CS/Logic/Semantics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Systems 1/Arithmetic/Arithmetic 3.md",
+                "file": "Foundations of CS/Logic/Semantics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Systems 1/Arithmetic/Arithmetic 3.md"
+                "file": "Foundations of CS/Logic/Semantics.md"
               }
             }
-          },
-          {
-            "id": "19584f6076ffb4df",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,45 +159,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51c93b4000a2bee1",
+  "active": "8d926128901690c1",
   "lastOpenFiles": [
+    "Foundations of CS/Logic/Logic.md",
+    "Foundations of CS/Logic/Intro & Syntax.md",
+    "Foundations of CS/Logic/Semantics.md",
+    "Foundations of CS/Logic",
     "Computer Systems 1/Arithmetic/number bases.png",
     "Computer Systems 1/Arithmetic/Arithmetic 3.md",
     "Computer Systems 1/Arithmetic/Arithmetic 2.md",
     "Computer Systems 1/Arithmetic/Arithmetic 1.md",
-    "2's complement.md",
-    "Computer Systems 1/Flip flops and Registers.md",
-    "Computer Systems 1/Digital Electronics Intro.md",
-    "Computer Systems 1/Computer Systems 1.md",
     "Computer Systems 1/Arithmetic",
-    "Computer Systems 1/MOS transistor.png",
-    "Computer Systems 1/OR hardware.png",
-    "Computer Systems 1/parallel serial.png",
-    "Computer Systems 1/Register.png",
-    "Computer Systems 1/Register copy.png",
-    "Computer Systems 1/xinkmap.png",
-    "Foundations of CS/Logic/Intro & Syntax.md",
-    "Foundations of CS/Logic/Logic.md",
-    "Computer Systems 1/AND hardware.png",
+    "Foundations of CS/Set Theory/Reasoning About Sets.md",
+    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
+    "Foundations of CS/Set Theory/Basic Definitions.md",
     "Foundations of CS/Set Theory/Exercise Sheet 1.md",
     "Foundations of CS/Set Theory/Composition.png",
-    "Untitled.canvas",
-    "Foundations of CS/Set Theory/Basic Definitions.md",
-    "Programming 1/Java.md",
-    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
-    "Foundations of CS/Set Theory/Set Theory.md",
-    "Foundations of CS/Set Theory/Reasoning About Sets.md",
     "Foundations of CS/Set Theory/Functions.md",
-    "Foundations of CS/Logic",
+    "Computer Systems 1/xinkmap.png",
     "Foundations of CS/Set Theory/Screenshot 2023-10-09 at 15.01.17.png",
-    "Functions.md",
-    "Programming 1/Java Loops.md",
-    "Programming 1/Programming 1.md",
+    "Programming 1/Java.md",
     "Programming 1/Java If statements.md",
+    "Computer Systems 1/Arithmetic.md",
+    "Computer Systems 1/Computer Systems 1.md",
+    "Computer Systems 1/Register copy.png",
+    "Foundations of CS/Set Theory/Set Theory.md",
+    "Computer Systems 1/parallel serial.png",
+    "Computer Systems 1/Register.png",
+    "Computer Systems 1/Flip flops and Registers.md",
+    "Computer Systems 1/D-type flip flop.png",
+    "Computer Systems 1/Digital Electronics Intro.md",
+    "Computer Systems 1/MOS transistor.png",
+    "Computer Systems 1/OR hardware.png",
     "2023-10-05.md",
+    "Untitled.canvas",
+    "Programming 1/Programming 1.md",
     "Foundations of CS/Set Theory",
     "Foundations of CS",
     "Programming 1",
-    "Computer Systems 1"
+    "Computer Systems 1",
+    "Programming 1/Java Loops.md"
   ]
 }

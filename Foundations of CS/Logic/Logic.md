@@ -1,2 +1,4 @@
 
 - [[Intro & Syntax]]
+- [[Semantics]]
+- 
