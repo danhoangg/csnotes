@@ -4,3 +4,6 @@
 - [[Arithmetic 1]] 
 - [[Arithmetic 2]] 
 - [[Arithmetic 3]] 
+- [[ADC, DAC]]
+- [[Branch prediction]]
+- [[Instruction Level Parallelism]]
