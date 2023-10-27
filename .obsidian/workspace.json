@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of CS/Logic/Semantics.md",
+                "file": "Foundations of CS/Logic/Natural deduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of CS/Logic/Semantics.md",
+                "file": "Foundations of CS/Logic/Natural deduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of CS/Logic/Semantics.md",
+                "file": "Foundations of CS/Logic/Natural deduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of CS/Logic/Semantics.md"
+                "file": "Foundations of CS/Logic/Natural deduction.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "10ee2de899189e8f",
   "lastOpenFiles": [
+    "Foundations of CS/Logic/Semantics.md",
+    "Foundations of CS/Logic/proof tree.png",
+    "Computer Systems 1/Instruction Level Parallelism.md",
     "Foundations of CS/Logic/Natural deduction.md",
     "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
-    "Foundations of CS/Logic/Semantics.md",
     "Untitled.md",
-    "Foundations of CS/Logic/proof tree.png",
     "Foundations of CS/Logic/Logic.md",
     "Foundations of CS/Logic/Intro & Syntax.md",
     "Foundations of CS/Logic",
