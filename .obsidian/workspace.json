@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bdb723b9acfbce3a",
+        "id": "dcd5f90d273740ab",
         "type": "tabs",
         "children": [
           {
-            "id": "6b34ebb47323bf7f",
+            "id": "8bc67cd1bd3f9b13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems 1/ADC, DAC.md",
+                "file": "Foundations of CS/Logic/Predicate Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Systems 1/ADC, DAC.md",
+                "file": "Foundations of CS/Logic/Predicate Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Systems 1/ADC, DAC.md",
+                "file": "Foundations of CS/Logic/Predicate Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Systems 1/ADC, DAC.md"
+                "file": "Foundations of CS/Logic/Predicate Logic.md"
               }
             }
           },
@@ -155,10 +155,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b34ebb47323bf7f",
+  "active": "8bc67cd1bd3f9b13",
   "lastOpenFiles": [
-    "Programming 1/Java.md",
+    "Foundations of CS/Images/predicate examples.png",
+    "Foundations of CS/Logic/Semantics.md",
+    "Foundations of CS/Logic/Natural deduction.md",
+    "Foundations of CS/Logic/Predicate Logic.md",
+    "Foundations of CS/Logic/Intro & Syntax.md",
+    "Foundations of CS/Logic/Logic.md",
+    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
+    "Foundations of CS/Topics.md",
+    "Foundations of CS/Set Theory/Set Theory.md",
     "Computer Systems 1/ADC, DAC.md",
+    "Programming 1/Java.md",
     "Foundations of CS/Images",
     "Computer Systems 1/Images/PWM.png",
     "Computer Systems 1/Images/Simplified ADC.png",
@@ -173,15 +182,9 @@
     "Computer Systems 1/Instruction Level Parallelism.md",
     "Computer Systems 1/Arithmetic/Arithmetic 3.md",
     "Computer Systems 1/Arithmetic/number bases.png",
-    "Foundations of CS/Logic/Logic.md",
-    "Foundations of CS/Logic/Intro & Syntax.md",
-    "Foundations of CS/Logic/Natural deduction.md",
     "Foundations of CS/Images/proof tree.png",
-    "Foundations of CS/Logic/Semantics.md",
     "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
     "Computer Systems 1/Images/bidrectional.png",
-    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
-    "Foundations of CS/Set Theory/Set Theory.md",
     "Computer Systems 1/Arithmetic/Arithmetic 1.md",
     "2's complement.md",
     "Computer Systems 1/Arithmetic",
@@ -195,8 +198,6 @@
     "Functions.md",
     "Programming 1/Java Loops.md",
     "Programming 1/Programming 1.md",
-    "Programming 1/Java If statements.md",
-    "2023-10-05.md",
     "Foundations of CS/Set Theory",
     "Foundations of CS",
     "Programming 1",
