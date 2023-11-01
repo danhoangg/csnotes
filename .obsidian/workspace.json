@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dcd5f90d273740ab",
+        "id": "37b1be296b1fc735",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc67cd1bd3f9b13",
+            "id": "7358e5b714869725",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations of CS/Logic/Predicate Logic.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of CS/Logic/Predicate Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of CS/Logic/Predicate Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Foundations of CS/Logic/Predicate Logic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,49 +147,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bc67cd1bd3f9b13",
+  "active": "7358e5b714869725",
   "lastOpenFiles": [
-    "Foundations of CS/Images/predicate examples.png",
-    "Foundations of CS/Logic/Semantics.md",
-    "Foundations of CS/Logic/Natural deduction.md",
-    "Foundations of CS/Logic/Predicate Logic.md",
-    "Foundations of CS/Logic/Intro & Syntax.md",
-    "Foundations of CS/Logic/Logic.md",
-    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
-    "Foundations of CS/Topics.md",
-    "Foundations of CS/Set Theory/Set Theory.md",
+    "Computer Systems 1/Operating System.md",
+    "Computer Systems 1/Pipelines - Branch prediction.md",
+    "Computer Systems 1/Computer Systems 1.md",
+    "Computer Systems 1/Flip flops and Registers.md",
+    "Computer Systems 1/Images/Branch predictor.png",
+    "Computer Systems 1/Instruction Level Parallelism.md",
+    "Computer Systems 1/Arithmetic/Arithmetic 3.md",
+    "Computer Systems 1/Arithmetic/Arithmetic 2.md",
+    "Computer Systems 1/Arithmetic/Arithmetic 1.md",
+    "Computer Systems 1/Images/number bases.png",
+    "Computer Systems 1/Digital Electronics Intro.md",
     "Computer Systems 1/ADC, DAC.md",
+    "Foundations of CS/Topics.md",
+    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
+    "Foundations of CS/Set Theory/Reasoning About Sets.md",
+    "Foundations of CS/Set Theory/Set Theory.md",
+    "Foundations of CS/Set Theory/Functions.md",
+    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
+    "Foundations of CS/Set Theory/Basic Definitions.md",
+    "Foundations of CS/Logic/Semantics.md",
+    "Foundations of CS/Logic/Predicate Logic.md",
+    "Foundations of CS/Logic/Natural deduction.md",
+    "Foundations of CS/Logic/Logic.md",
+    "Foundations of CS/Logic/Intro & Syntax.md",
+    "Foundations of CS/Images/proof tree.png",
+    "Foundations of CS/Images/predicate examples.png",
+    "Foundations of CS/Images/Composition.png",
+    "Programming 1/Programming 1.md",
+    "Programming 1/JVM.png",
+    "Programming 1/Java Loops.md",
+    "Programming 1/Java If statements.md",
     "Programming 1/Java.md",
     "Foundations of CS/Images",
     "Computer Systems 1/Images/PWM.png",
     "Computer Systems 1/Images/Simplified ADC.png",
-    "Computer Systems 1/Computer Systems 1.md",
     "Computer Systems 1/Images/adder.png",
     "Computer Systems 1/Images/ADC.png",
     "Computer Systems 1/Images",
-    "Computer Systems 1/Arithmetic/Arithmetic 2.md",
-    "Computer Systems 1/Images/D-type flip flop.png",
-    "Computer Systems 1/Digital Electronics Intro.md",
-    "Computer Systems 1/Flip flops and Registers.md",
-    "Computer Systems 1/Instruction Level Parallelism.md",
-    "Computer Systems 1/Arithmetic/Arithmetic 3.md",
-    "Computer Systems 1/Arithmetic/number bases.png",
-    "Foundations of CS/Images/proof tree.png",
-    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
-    "Computer Systems 1/Images/bidrectional.png",
-    "Computer Systems 1/Arithmetic/Arithmetic 1.md",
-    "2's complement.md",
     "Computer Systems 1/Arithmetic",
-    "Computer Systems 1/Images/MOS transistor.png",
-    "Computer Systems 1/Images/OR hardware.png",
     "Untitled.canvas",
-    "Foundations of CS/Set Theory/Basic Definitions.md",
-    "Foundations of CS/Set Theory/Reasoning About Sets.md",
-    "Foundations of CS/Set Theory/Functions.md",
     "Foundations of CS/Logic",
-    "Functions.md",
-    "Programming 1/Java Loops.md",
-    "Programming 1/Programming 1.md",
     "Foundations of CS/Set Theory",
     "Foundations of CS",
     "Programming 1",

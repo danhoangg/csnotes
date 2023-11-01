@@ -5,5 +5,6 @@
 - [[Arithmetic 2]] 
 - [[Arithmetic 3]] 
 - [[ADC, DAC]]
-- [[Branch prediction]]
+- [[Pipelines - Branch prediction]]
 - [[Instruction Level Parallelism]]
+- [[Operating System]]

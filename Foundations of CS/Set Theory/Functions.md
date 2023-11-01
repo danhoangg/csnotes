@@ -1,3 +1,4 @@
+Subjects/ Topics: #SetTheory #Functions 
 
 1:1 mapping system such that for each element $x$ of the domain there is exactly one element $y$ of the codomain, the value f at $x$
 

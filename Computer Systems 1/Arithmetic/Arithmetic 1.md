@@ -1,3 +1,5 @@
+Subjects/ Topics: #KarnaughMaps #Logic
+
 Related:
 - [[Arithmetic 2]]
 - [[Arithmetic 3]]

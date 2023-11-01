@@ -1,3 +1,5 @@
+Subjects/ Topics: #Proofs #Logic #NaturalDeduction
+
 Natural deduction is both **sound** and **complete** for propositional logic
 
 - Formal proofs in natural deduction(proof trees or derivations) is a different kind of tree to an abstract syntax tree

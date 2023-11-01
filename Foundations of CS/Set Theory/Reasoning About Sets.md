@@ -1,3 +1,5 @@
+Subjects/ Topics: #SetTheory #Proofs 
+
 - A basic relationship between sets is the subset relation:
 	- A set x is a subset of Y when every element of X is also an element of Y
 	- $X\subseteq Y$

@@ -1,3 +1,5 @@
+Subjects/ Topics: #Binary 
+
 Related:
 - [[Arithmetic 1]]
 - [[Arithmetic 3]]

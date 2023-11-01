@@ -1,3 +1,5 @@
+Subjects/ Topics:  #Logic #Intro
+
 **Consider:**
 - If it is a holiday or I am sick then I will not go to work
 	- Therefore if I go to work then it's not a holiday and I am not sick

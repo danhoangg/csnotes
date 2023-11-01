@@ -1,3 +1,4 @@
+Subjects/ Topics: #Logic #Proofs #Predicate
 
 - In propositional logic, a "world" is an assignment of truth values to propositional variables
 - Predicate logic is a much richer language

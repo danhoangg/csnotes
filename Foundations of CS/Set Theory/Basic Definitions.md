@@ -1,3 +1,5 @@
+Subjects/ Topics:  #SetTheory #Intro #Semantics
+
 - A set is a collection of objects, also referred to as elements or members
 - e.g. a small finite could be {0, 1, 8}
 - Element repetition doesn't matter within sets, {0, 2, 5, 2} = {0, 2, 5}

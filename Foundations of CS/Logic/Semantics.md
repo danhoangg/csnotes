@@ -1,3 +1,4 @@
+Subjects/ Topics: #Semantics #Logic
 
 ### Basic truth tables
 

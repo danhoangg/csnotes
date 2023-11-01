@@ -1,3 +1,4 @@
+Subjects/ Topics: #Electronics #Logic 
 
 ### Transistors
 ![[MOS transistor.png]]
