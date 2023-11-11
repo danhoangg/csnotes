@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2194014a0f0b402a",
+        "id": "37b1be296b1fc735",
         "type": "tabs",
         "children": [
           {
-            "id": "10ee2de899189e8f",
+            "id": "7358e5b714869725",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems 1/Interconnections and buses.md",
+                "file": "Computer Systems 1/Instruction Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,12 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f154376c71ba472",
+            "id": "599c71aabb075e1c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Systems 1/Interconnections and buses.md",
+                "file": "Computer Systems 1/Instruction Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Systems 1/Interconnections and buses.md",
+                "file": "Computer Systems 1/Instruction Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Systems 1/Interconnections and buses.md"
+                "file": "Computer Systems 1/Instruction Sets.md"
               }
             }
           },
           {
-            "id": "b1cd3a72772a450a",
+            "id": "19584f6076ffb4df",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -155,49 +155,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10ee2de899189e8f",
+  "active": "cb7f03261defc7f9",
   "lastOpenFiles": [
+    "Computer Systems 1/Images/Endian.png",
     "Foundations of CS/Logic/Predicate Logic.md",
-    "Computer Systems 1/Untitled.md",
-    "Foundations of CS/Logic/Semantics.md",
-    "Foundations of CS/Logic/Natural deduction.md",
-    "Foundations of CS/Logic/Intro & Syntax.md",
-    "Foundations of CS/Logic/Logic.md",
-    "Computer Systems 1/Interconnections and buses.md",
-    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
-    "Computer Systems 1/Pipelines - Branch prediction.md",
-    "Computer Systems 1/Operating System.md",
-    "Computer Systems 1/Images/number bases.png",
-    "Computer Systems 1/Images/Branch predictor.png",
-    "Computer Systems 1/Flip flops and Registers.md",
-    "Foundations of CS/Topics.md",
-    "Foundations of CS/Images/Composition.png",
-    "Foundations of CS/Images/proof tree.png",
-    "Foundations of CS/Images/predicate examples.png",
-    "Foundations of CS/Images",
-    "Computer Systems 1/Images/xinkmap.png",
-    "Computer Systems 1/Images/parallel serial.png",
-    "Computer Systems 1/Images/bidrectional.png",
-    "Computer Systems 1/Images/adder.png",
-    "Computer Systems 1/Images/Register copy.png",
-    "Computer Systems 1/Images",
-    "Computer Systems 1/ADC, DAC.md",
+    "Computer Systems 1/Instruction Sets.md",
     "Computer Systems 1/Instruction Level Parallelism.md",
-    "Untitled.md",
-    "Foundations of CS/Logic",
+    "Computer Systems 1/Interconnections and buses.md",
+    "Computer Systems 1/Operating System.md",
+    "Computer Systems 1/Pipelines - Branch prediction.md",
+    "Computer Systems 1/Computer Systems 1.md",
+    "Computer Systems 1/Flip flops and Registers.md",
+    "Computer Systems 1/Images/Branch predictor.png",
     "Computer Systems 1/Arithmetic/Arithmetic 3.md",
     "Computer Systems 1/Arithmetic/Arithmetic 2.md",
     "Computer Systems 1/Arithmetic/Arithmetic 1.md",
-    "Computer Systems 1/Arithmetic",
+    "Computer Systems 1/Images/number bases.png",
+    "Computer Systems 1/Digital Electronics Intro.md",
+    "Computer Systems 1/ADC, DAC.md",
+    "Foundations of CS/Topics.md",
+    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
     "Foundations of CS/Set Theory/Reasoning About Sets.md",
-    "Foundations of CS/Set Theory/Basic Definitions.md",
-    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
+    "Foundations of CS/Set Theory/Set Theory.md",
     "Foundations of CS/Set Theory/Functions.md",
-    "Programming 1/Java.md",
-    "Programming 1/Java If statements.md",
-    "Computer Systems 1/Arithmetic.md",
-    "Computer Systems 1/Computer Systems 1.md",
+    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
+    "Foundations of CS/Set Theory/Basic Definitions.md",
+    "Foundations of CS/Logic/Semantics.md",
+    "Foundations of CS/Logic/Natural deduction.md",
+    "Foundations of CS/Logic/Logic.md",
+    "Foundations of CS/Logic/Intro & Syntax.md",
+    "Foundations of CS/Images/proof tree.png",
+    "Foundations of CS/Images/predicate examples.png",
+    "Foundations of CS/Images/Composition.png",
+    "Programming 1/Programming 1.md",
+    "Programming 1/JVM.png",
+    "Foundations of CS/Images",
+    "Computer Systems 1/Images/PWM.png",
+    "Computer Systems 1/Images/Simplified ADC.png",
+    "Computer Systems 1/Images/adder.png",
+    "Computer Systems 1/Images/ADC.png",
+    "Computer Systems 1/Images",
+    "Computer Systems 1/Arithmetic",
     "Untitled.canvas",
+    "Foundations of CS/Logic",
     "Foundations of CS/Set Theory",
     "Foundations of CS",
     "Programming 1",
