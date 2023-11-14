@@ -7,4 +7,7 @@
 - [[ADC, DAC]]
 - [[Pipelines - Branch prediction]]
 - [[Instruction Level Parallelism]]
-- [[Operating System]]
+- [[Operating System (part 1)]]
+- [[Instruction Sets]]
+- [[Interconnections and buses]]
+- [[Operating System (part 2)]]
