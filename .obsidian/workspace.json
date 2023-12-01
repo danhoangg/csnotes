@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of CS/Linear Algebra/Linear independence, span and basis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43e5627f1116bfe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundations of CS/Linear Algebra/Matrices.md",
+                "file": "Computer Systems 1/Operating System (part 2).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of CS/Linear Algebra/Matrices.md",
+                "file": "Computer Systems 1/Operating System (part 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of CS/Linear Algebra/Matrices.md",
+                "file": "Computer Systems 1/Operating System (part 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of CS/Linear Algebra/Matrices.md"
+                "file": "Computer Systems 1/Operating System (part 2).md"
               }
             }
           },
@@ -168,36 +155,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43e5627f1116bfe4",
+  "active": "10ee2de899189e8f",
   "lastOpenFiles": [
-    "Foundations of CS/Linear Algebra/Transformations and Matrices.md",
-    "Foundations of CS/Linear Algebra/Matrices.md",
-    "Foundations of CS/Linear Algebra/Linear independence, span and basis.md",
-    "Foundations of CS/Linear Algebra/Linear Algebra.md",
-    "Untitled.md",
-    "Foundations of CS/Combinatorics/Introduction.md",
-    "Foundations of CS/Combinatorics/Combinatorics.md",
-    "Foundations of CS/Set Theory/Basic Definitions.md",
-    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
-    "Foundations of CS/Set Theory/Set Theory.md",
-    "Foundations of CS/Combinatorics",
-    "Computer Systems 1/Flip flops and Registers.md",
-    "Computer Systems 1/Computer Systems 1.md",
-    "Foundations of CS/Images/Canonical Basis.png",
-    "Foundations of CS/Topics.md",
-    "Foundations of CS/Logic/Logic.md",
-    "Foundations of CS/Logic/Intro & Syntax.md",
-    "Foundations of CS/Linear Algebra",
-    "Computer Systems 1/Operating System (part 2).md",
     "Computer Systems 1/Operating System (part 1).md",
-    "Computer Systems 1/Instruction Sets.md",
-    "Computer Systems 1/Images/Endian.png",
-    "Computer Systems 1/Interconnections and buses.md",
-    "Foundations of CS/Logic/Predicate Logic.md",
-    "Computer Systems 1/Untitled.md",
-    "Foundations of CS/Logic/Semantics.md",
-    "Foundations of CS/Logic/Natural deduction.md",
+    "Computer Systems 1/Operating System (part 2).md",
+    "Foundations of CS/Linear Algebra/Linear independence, span and basis.md",
+    "Foundations of CS/Linear Algebra/Matrices.md",
+    "Computer Systems 1/Instruction Level Parallelism.md",
     "Computer Systems 1/Pipelines - Branch prediction.md",
+    "Foundations of CS/Linear Algebra/Transformations and Matrices.md",
+    "Computer Systems 1/Memory, RAM and Cache.md",
+    "Foundations of CS/Linear Algebra/Linear Algebra.md",
+    "Foundations of CS/Linear Algebra/Eigenvalues and Eigenvectors.md",
+    "Computer Systems 1/Images/3 level cache.png",
+    "Foundations of CS/Combinatorics/More counting techniques.md",
+    "Foundations of CS/Combinatorics/Multinomial Theorem.md",
+    "Foundations of CS/Combinatorics/Combinatorics.md",
+    "Foundations of CS/Combinatorics/Introduction.md",
+    "Foundations of CS/Logic/Natural deduction.md",
+    "Foundations of CS/Logic/Logic.md",
+    "Foundations of CS/Logic/Predicate Logic.md",
+    "Foundations of CS/Logic/Semantics.md",
+    "Foundations of CS/Logic/Intro & Syntax.md",
+    "Computer Systems 1/Interconnections and buses.md",
+    "Foundations of CS/Set Theory/Functions.md",
+    "Computer Systems 1/Instruction Sets.md",
+    "Programming 1/Java.md",
+    "Computer Systems 1/Arithmetic/Arithmetic 3.md",
+    "Computer Systems 1/Arithmetic/Arithmetic 1.md",
+    "Computer Systems 1/Arithmetic/Arithmetic 2.md",
+    "Foundations of CS/Images/Trinomial.png",
+    "Foundations of CS/Combinatorics",
+    "Foundations of CS/Images/Canonical Basis.png",
+    "Foundations of CS/Linear Algebra",
+    "Computer Systems 1/Images/Endian.png",
     "Computer Systems 1/Images/number bases.png",
     "Computer Systems 1/Images/Branch predictor.png",
     "Foundations of CS/Images/Composition.png",
@@ -205,11 +196,7 @@
     "Foundations of CS/Images/predicate examples.png",
     "Foundations of CS/Images",
     "Computer Systems 1/Images/xinkmap.png",
-    "Computer Systems 1/Images/parallel serial.png",
-    "Computer Systems 1/Images/bidrectional.png",
     "Computer Systems 1/Images",
-    "Computer Systems 1/ADC, DAC.md",
-    "Computer Systems 1/Instruction Level Parallelism.md",
     "Foundations of CS/Logic",
     "Computer Systems 1/Arithmetic",
     "Untitled.canvas",
