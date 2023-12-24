@@ -1,3 +1,5 @@
 - [[Set Theory]]
 - [[Logic]]
 - [[Linear Algebra]]
+- [[Combinatorics]]
+- [[Probability and Statistics]]

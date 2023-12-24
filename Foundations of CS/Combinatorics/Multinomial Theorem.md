@@ -15,9 +15,7 @@ Where $i+j+k=n$
 ![[Trinomial.png]]
 
 **Multinomial expansion:**
-
-$(x_1+...+x_m)^n = \sum_{k_1,...,k_m}\begin{pmatrix}n\\k_1...k_m\end{pmatrix}x_1^{k_1}...+x_m^{k_m}$  
-
+#### $(x_1+...+x_m)^n = \sum_{k_1,...,k_m}\begin{pmatrix}n\\k_1...k_m\end{pmatrix}x_1^{k_1}...+x_m^{k_m}$  
 #### Lattice paths and Multinomial coefficient
 
 By going only in the direction towards the point:
@@ -30,3 +28,6 @@ By going only in the direction towards the point:
 - Paths from (0,0) to (m,n) is
 	- $\begin{pmatrix}m+n\\m\end{pmatrix}$
 
+### Extra fun fact
+
+$$(1+x+x^2+...+x^m)^n = \sum_{r=0}^m \begin{pmatrix} r+n-1 \\ r \end{pmatrix}x^r$$

@@ -1,4 +1,4 @@
-- [[Introduction]]
+- [[Foundations of CS/Combinatorics/Introduction]]
 - [[Multinomial Theorem]]
 - [[More counting techniques]]
 - [[Graph theory intro]]
