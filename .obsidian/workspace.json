@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/Introduction to discrete probability & statistics.md",
+                "file": "Foundations of CS/Probability and Statistics/Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Combinatorics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/Introduction to discrete probability & statistics.md",
+                "file": "Foundations of CS/Probability and Statistics/Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/Introduction to discrete probability & statistics.md",
+                "file": "Foundations of CS/Probability and Statistics/Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/Introduction to discrete probability & statistics.md"
+                "file": "Foundations of CS/Probability and Statistics/Distributions.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "43e5627f1116bfe4",
   "lastOpenFiles": [
-    "Foundations of CS/Probability and Statistics/Probability and Statistics.md",
     "Foundations of CS/Probability and Statistics/Random Variables.md",
+    "Foundations of CS/Probability and Statistics/Distributions.md",
+    "Foundations of CS/Probability and Statistics/Probability and Statistics.md",
     "Foundations of CS/Probability and Statistics/Introduction to discrete probability & statistics.md",
     "Foundations of CS/Set Theory/Basic Definitions.md",
     "Foundations of CS/Topics.md",
