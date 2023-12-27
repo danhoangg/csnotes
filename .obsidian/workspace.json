@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/Distributions.md",
+                "file": "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Combinatorics",
+                "query": "distribut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/Distributions.md",
+                "file": "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/Distributions.md",
+                "file": "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/Distributions.md"
+                "file": "Foundations of CS/Probability and Statistics/The Normal Distribution.md"
               }
             }
           },
@@ -163,15 +163,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43e5627f1116bfe4",
+  "active": "cb7f03261defc7f9",
   "lastOpenFiles": [
-    "Foundations of CS/Probability and Statistics/Random Variables.md",
-    "Foundations of CS/Probability and Statistics/Distributions.md",
+    "Pasted image 20231223160014.png",
+    "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
     "Foundations of CS/Probability and Statistics/Probability and Statistics.md",
     "Foundations of CS/Probability and Statistics/Introduction to discrete probability & statistics.md",
+    "Foundations of CS/Probability and Statistics/Distributions.md",
+    "Computer Systems 1/Operating System (part 2).md",
+    "Computer Systems 1/Computer Systems 1.md",
+    "Foundations of CS/Probability and Statistics/Random Variables.md",
     "Foundations of CS/Set Theory/Basic Definitions.md",
     "Foundations of CS/Topics.md",
-    "Pasted image 20231223160014.png",
     "Foundations of CS/Images/prob proof.png",
     "Foundations of CS/Combinatorics/Multinomial Theorem.md",
     "Foundations of CS/Combinatorics/Graph theory intro.md",
@@ -179,7 +182,6 @@
     "Foundations of CS/Combinatorics/Combinatorics.md",
     "Foundations of CS/Combinatorics/Introduction.md",
     "Foundations of CS/Linear Algebra/Linear independence, span and basis.md",
-    "Computer Systems 1/Computer Systems 1.md",
     "Computer Systems 1/Memory, RAM and Cache.md",
     "Foundations of CS/Set Theory/Set Theory.md",
     "Foundations of CS/Set Theory/Reasoning About Sets.md",
@@ -190,15 +192,12 @@
     "Foundations of CS/Linear Algebra/Linear Algebra.md",
     "Foundations of CS/Probability and Statistics",
     "Foundations of CS/Untitled.md",
-    "Computer Systems 1/Operating System (part 2).md",
     "Foundations of CS/Linear Algebra/Matrices.md",
     "Foundations of CS/Linear Algebra/Transformations and Matrices.md",
     "Pasted image 20231201140311.png",
     "Foundations of CS/Images/isomorphism.png",
     "Foundations of CS/Images/Trinomial.png",
     "Computer Systems 1/Images/3 level cache.png",
-    "Computer Systems 1/Operating System (part 1).md",
-    "Computer Systems 1/Pipelines - Branch prediction.md",
     "Foundations of CS/Combinatorics",
     "Foundations of CS/Images/Canonical Basis.png",
     "Foundations of CS/Linear Algebra",
