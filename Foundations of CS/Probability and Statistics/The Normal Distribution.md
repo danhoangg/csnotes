@@ -90,7 +90,7 @@ This means that $\mathbb{P}(-1.96\leq\frac{\bar{y}-\mu}{\sigma/\sqrt{n}}\leq1.96
 - We must use the unbiased estimator $\hat{\sigma}^2_{\text{unbiased}} = \frac{1}{n-1}\sum_{i=1}^n(y_i-\bar{y})^2$ 
 - The random variable $\frac{\bar{y}-\mu}{\hat{\sigma}^2_{\text{unbiased}}/\sqrt{n}}$ is no longer normally distributed, so $z_{a/2}$ cannot be used as it comes from $\mathcal{N}(0,1)$
 - Instead, the random variable $\frac{\bar{y}-\mu}{\hat{\sigma}^2_{\text{unbiased}}/\sqrt{n}}$ follows the **student t-distribution** with n-1 degrees of freedom
-- The confidence interval using student t-distribution is now $$T_\alpha = [\bar{y}-t_{\alpha/2,n-1}\frac{\hat{\sigma}^2_{\text{unbiased}}}{\sqrt{n}}, \bar{y}+t_{\alpha/2,n-1}\frac{\hat{\sigma}^2_{\text{unbiased}}}{\sqrt{n}}]$$
+- The confidence interval using student t-distribution is now $$T_\alpha = [\bar{y}-t_{\alpha/2,n-1}\frac{\hat{\sigma}_{\text{unbiased}}}{\sqrt{n}}, \bar{y}+t_{\alpha/2,n-1}\frac{\hat{\sigma}_{\text{unbiased}}}{\sqrt{n}}]$$
 - The value $t_{\alpha/2,n-1}$ is the 100(1-$\alpha$/2)th percentile of the standard Student t-distribution with n-1 degree-of-freedom
 - Must read off table or software, too difficult to calculate
 
@@ -166,7 +166,7 @@ $$
 - Same assumptions as before except known $\sigma^2$ is unknown as well
 	- Calculate sample mean $\bar{y}$
 	- Calculate unbiased estimator of variance $\hat{\sigma}^2_{\text{unbiased}}$
-	- Perform standardisation to get t-score $t_{\bar{y}} = \frac{\bar{y} - \mu_{\text{guess}}}{\hat{\sigma}^2_{\text{unbiased}} / \sqrt{n}}$
+	- Perform standardisation to get t-score $t_{\bar{y}} = \frac{\bar{y} - \mu_{\text{guess}}}{\hat{\sigma}_{\text{unbiased}} / \sqrt{n}}$
 	- Calculate p-value: $$p = \begin{cases} 
 2\left(1 - P(T < |t|)\right) & H_0 : \mu = \mu_{\text{guess}} \quad \text{vs} \quad H_A : \mu \neq \mu_{\text{guess}} \\
 1 - P(T < t) & H_0 : \mu \leq \mu_{\text{guess}} \quad \text{vs} \quad H_A : \mu > \mu_{\text{guess}} \\

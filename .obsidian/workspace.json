@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
+                "file": "Foundations of CS/Set Theory/Infinite Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
+                "file": "Foundations of CS/Set Theory/Infinite Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
+                "file": "Foundations of CS/Set Theory/Infinite Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of CS/Probability and Statistics/The Normal Distribution.md"
+                "file": "Foundations of CS/Set Theory/Infinite Sets.md"
               }
             }
           },
@@ -163,37 +163,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb7f03261defc7f9",
+  "active": "43e5627f1116bfe4",
   "lastOpenFiles": [
-    "Pasted image 20231223160014.png",
+    "Untitled.md",
+    "Foundations of CS/Set Theory/Infinite Sets.md",
+    "Foundations of CS/Set Theory/Special Relations.md",
+    "Foundations of CS/Set Theory/Set Theory.md",
+    "Foundations of CS/Set Theory/Relations.md",
+    "Foundations of CS/Set Theory/Functions.md",
+    "Foundations of CS/Logic/Predicate Logic.md",
+    "Foundations of CS/Logic/Natural deduction.md",
+    "Foundations of CS/Logic/Logic.md",
+    "Foundations of CS/Set Theory/Reasoning About Sets.md",
+    "Foundations of CS/Images/Digraph.png",
+    "Pasted image 20231231150054.png",
+    "Foundations of CS/Set Theory/Basic Definitions.md",
+    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
+    "Foundations of CS/Linear Algebra/Linear independence, span and basis.md",
+    "Foundations of CS/Linear Algebra/Eigenvalues and Eigenvectors.md",
+    "Foundations of CS/Linear Algebra/Linear Algebra.md",
     "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
+    "Foundations of CS/Probability and Statistics/Random Variables.md",
+    "Pasted image 20231223160014.png",
     "Foundations of CS/Probability and Statistics/Probability and Statistics.md",
     "Foundations of CS/Probability and Statistics/Introduction to discrete probability & statistics.md",
     "Foundations of CS/Probability and Statistics/Distributions.md",
     "Computer Systems 1/Operating System (part 2).md",
     "Computer Systems 1/Computer Systems 1.md",
-    "Foundations of CS/Probability and Statistics/Random Variables.md",
-    "Foundations of CS/Set Theory/Basic Definitions.md",
     "Foundations of CS/Topics.md",
     "Foundations of CS/Images/prob proof.png",
     "Foundations of CS/Combinatorics/Multinomial Theorem.md",
     "Foundations of CS/Combinatorics/Graph theory intro.md",
     "Foundations of CS/Combinatorics/More counting techniques.md",
-    "Foundations of CS/Combinatorics/Combinatorics.md",
-    "Foundations of CS/Combinatorics/Introduction.md",
-    "Foundations of CS/Linear Algebra/Linear independence, span and basis.md",
-    "Computer Systems 1/Memory, RAM and Cache.md",
-    "Foundations of CS/Set Theory/Set Theory.md",
-    "Foundations of CS/Set Theory/Reasoning About Sets.md",
-    "Foundations of CS/Set Theory/Functions.md",
-    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
     "Foundations of CS/Probability and Statistics/Untitled",
-    "Foundations of CS/Linear Algebra/Eigenvalues and Eigenvectors.md",
-    "Foundations of CS/Linear Algebra/Linear Algebra.md",
     "Foundations of CS/Probability and Statistics",
-    "Foundations of CS/Untitled.md",
-    "Foundations of CS/Linear Algebra/Matrices.md",
-    "Foundations of CS/Linear Algebra/Transformations and Matrices.md",
     "Pasted image 20231201140311.png",
     "Foundations of CS/Images/isomorphism.png",
     "Foundations of CS/Images/Trinomial.png",
@@ -202,8 +205,6 @@
     "Foundations of CS/Images/Canonical Basis.png",
     "Foundations of CS/Linear Algebra",
     "Computer Systems 1/Images/Endian.png",
-    "Computer Systems 1/Images/number bases.png",
-    "Computer Systems 1/Images/Branch predictor.png",
     "Foundations of CS/Images",
     "Computer Systems 1/Images",
     "Foundations of CS/Logic",
