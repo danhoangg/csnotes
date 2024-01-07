@@ -12,3 +12,6 @@
 - [[Interconnections and buses]]
 - [[Operating System (part 2)]]
 - [[Memory, RAM and Cache]]
+- [[Modern CPUs]]
+- [[Instruction Sets 2]]
+- [[Arm Assembly]]

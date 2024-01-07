@@ -1,4 +1,4 @@
-Subjects/ Topics: #CPU #RAM #Buses
+ Subjects/ Topics: #CPU #RAM #Buses
 
 **Interconnection Structure**
 Different type of connections required for different type of unit:

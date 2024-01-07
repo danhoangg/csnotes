@@ -16,7 +16,7 @@ public class Dog {
 		Dog dog = new Dog();
 		dog.info()
 	}
-	public static void info() {
+	public void info() {
 		System.out.println("Age: " + age);
 		System.out.println("Name: " + name);
 	}

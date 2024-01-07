@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of CS/Set Theory/Infinite Sets.md",
+                "file": "Computer Systems 1/Computer Systems 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distribut",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of CS/Set Theory/Infinite Sets.md",
+                "file": "Computer Systems 1/Computer Systems 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of CS/Set Theory/Infinite Sets.md",
+                "file": "Computer Systems 1/Computer Systems 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of CS/Set Theory/Infinite Sets.md"
+                "file": "Computer Systems 1/Computer Systems 1.md"
               }
             }
           },
@@ -165,36 +165,36 @@
   },
   "active": "43e5627f1116bfe4",
   "lastOpenFiles": [
+    "Computer Systems 1/Arm Assembly.md",
+    "Pasted image 20240106233054.png",
     "Untitled.md",
-    "Foundations of CS/Set Theory/Infinite Sets.md",
-    "Foundations of CS/Set Theory/Special Relations.md",
+    "Computer Systems 1/Computer Systems 1.md",
+    "Computer Systems 1/Instruction Sets 2.md",
+    "Computer Systems 1/Flip flops and Registers.md",
+    "Computer Systems 1/Operating System (part 2).md",
+    "Computer Systems 1/Operating System (part 1).md",
+    "Computer Systems 1/Memory, RAM and Cache.md",
+    "Computer Systems 1/Interconnections and buses.md",
+    "Computer Systems 1/Pipelines - Branch prediction.md",
     "Foundations of CS/Set Theory/Set Theory.md",
-    "Foundations of CS/Set Theory/Relations.md",
+    "Foundations of CS/Set Theory/Special Relations.md",
+    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
+    "Foundations of CS/Set Theory/Basic Definitions.md",
+    "Foundations of CS/Set Theory/Infinite Sets.md",
     "Foundations of CS/Set Theory/Functions.md",
+    "Computer Systems 1/Modern CPUs.md",
+    "Computer Systems 1/Instruction Sets.md",
+    "Computer Systems 1/Instruction Level Parallelism.md",
+    "Computer Systems 1/ADC, DAC.md",
+    "Computer Systems 1/Digital Electronics Intro.md",
+    "Programming 1/Java.md",
+    "Computer Systems 1/Arithmetic/Arithmetic 1.md",
+    "Foundations of CS/Set Theory/Relations.md",
     "Foundations of CS/Logic/Predicate Logic.md",
-    "Foundations of CS/Logic/Natural deduction.md",
-    "Foundations of CS/Logic/Logic.md",
-    "Foundations of CS/Set Theory/Reasoning About Sets.md",
     "Foundations of CS/Images/Digraph.png",
     "Pasted image 20231231150054.png",
-    "Foundations of CS/Set Theory/Basic Definitions.md",
-    "Foundations of CS/Set Theory/Exercise Sheet 1.md",
-    "Foundations of CS/Linear Algebra/Linear independence, span and basis.md",
-    "Foundations of CS/Linear Algebra/Eigenvalues and Eigenvectors.md",
-    "Foundations of CS/Linear Algebra/Linear Algebra.md",
-    "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
-    "Foundations of CS/Probability and Statistics/Random Variables.md",
     "Pasted image 20231223160014.png",
-    "Foundations of CS/Probability and Statistics/Probability and Statistics.md",
-    "Foundations of CS/Probability and Statistics/Introduction to discrete probability & statistics.md",
-    "Foundations of CS/Probability and Statistics/Distributions.md",
-    "Computer Systems 1/Operating System (part 2).md",
-    "Computer Systems 1/Computer Systems 1.md",
-    "Foundations of CS/Topics.md",
     "Foundations of CS/Images/prob proof.png",
-    "Foundations of CS/Combinatorics/Multinomial Theorem.md",
-    "Foundations of CS/Combinatorics/Graph theory intro.md",
-    "Foundations of CS/Combinatorics/More counting techniques.md",
     "Foundations of CS/Probability and Statistics/Untitled",
     "Foundations of CS/Probability and Statistics",
     "Pasted image 20231201140311.png",
@@ -204,7 +204,6 @@
     "Foundations of CS/Combinatorics",
     "Foundations of CS/Images/Canonical Basis.png",
     "Foundations of CS/Linear Algebra",
-    "Computer Systems 1/Images/Endian.png",
     "Foundations of CS/Images",
     "Computer Systems 1/Images",
     "Foundations of CS/Logic",

@@ -1,4 +1,5 @@
 Subjects/ Topics: #CPU #Assembly #Instructions
+[[Instruction Sets 2]]
 
 - At a high level, an instruction set is a list of all the commands that a processor can execute
 - Different instruction set architectures have different instruction sets, e.g. ARM and x86

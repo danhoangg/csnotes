@@ -3,3 +3,4 @@
 - [[Functions]]
 - [[Taxonomy of functions and the isomorphism theorem]]
 - [[Relations]]
+- [[Special Relations]]

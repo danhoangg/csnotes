@@ -48,7 +48,7 @@ R3 = R3 + R5 (I1)
 R4 = R3 + 1  (I2)
 R3 = R5 + 1  (I3)
 ```
-- If I3 is executed before I2 then R4 will have wrong result, true data dependency
+- If I3 is executed before I2 then R4 will have wrong result, write-write dependency
 
 **Out-of-order issue, Out-of-order completion**
 
