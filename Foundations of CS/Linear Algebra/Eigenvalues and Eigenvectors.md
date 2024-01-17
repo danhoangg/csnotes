@@ -31,7 +31,7 @@ And by subbing $\lambda=-1$ we can obtain $\vec{v_2}=\begin{pmatrix}1\\-2\end{pm
 - Solve to get $\lambda$ values/ eigenvalues
 - Sub in $\lambda$ values to get the eigenvectors
 
-Remember to transform into different bases $$A'=M^{-1}AM$$
+Remember to transform into different bases $$A'=MAM^{-1}$$
 So lets transform into a new base spanned by v1 and v2 where A' scales by factors given by the eigenvalues, $\lambda_1,\lambda_2$
 $$A=M\begin{bmatrix}\lambda_1&0\\0&\lambda_2\end{bmatrix}M^{-1}$$
 $$\therefore A^2=M\begin{bmatrix}\lambda_1&0\\0&\lambda_2\end{bmatrix}M^{-1}M\begin{bmatrix}\lambda_1&0\\0&\lambda_2\end{bmatrix}M^{-1} = M\begin{bmatrix}\lambda_1&0\\0&\lambda_2\end{bmatrix}\begin{bmatrix}\lambda_1&0\\0&\lambda_2\end{bmatrix}M^{-1} = M\begin{bmatrix}\lambda_1^2&0\\0&\lambda_2^2\end{bmatrix}M^{-1}$$
