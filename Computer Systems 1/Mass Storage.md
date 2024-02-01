@@ -123,4 +123,4 @@ Subjects/ Topics: #Storage #SecondaryStorage
 - This can take a long time
 - System can still perform ok
 - Hot-swap drives mean no downtime
-- Or a 'hot spare' drive is always in system for automatic rebuilds.
+- Or a 'hot spare' drive is always in system for automatic rebuilds. 
