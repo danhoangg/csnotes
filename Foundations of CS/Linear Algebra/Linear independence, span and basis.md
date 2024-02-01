@@ -76,7 +76,7 @@ For an arbitrary x and y, can I always find $\alpha$ such that $\vec{v}=\alpha_1
 $x = 2\alpha_1 + 4\alpha_2$
 $y = \alpha_1 + \alpha_2$
 $\implies \alpha_1=2y-\frac{x}{2},\;\alpha_2=\frac{x}{2}-y$
-$\therefore$ v1, v2 spans $R^2$ and thus is a basis of R^2 
+$\therefore$ v1, v2 spans $R^2$ and thus is a basis of $R^2$
 
 ---
 #### Dimensions

@@ -1,4 +1,4 @@
-	qSubjects/ Topics: #Electronics #CPUs 
+Subjects/ Topics: #Electronics #CPUs 
 
 **Flip-flops**:
 - Stores one bit
