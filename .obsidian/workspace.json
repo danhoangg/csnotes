@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10ee2de899189e8f",
+            "id": "43e5627f1116bfe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Management/Introduction to UNIX.md",
+                "file": "Algorithmics/Know how long a program takes.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Management/Introduction to UNIX.md",
+                "file": "Algorithmics/Know how long a program takes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Management/Introduction to UNIX.md",
+                "file": "Algorithmics/Know how long a program takes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Management/Introduction to UNIX.md"
+                "file": "Algorithmics/Know how long a program takes.md"
               }
             }
           },
@@ -136,9 +136,17 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "129066c105a027df",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,54 +163,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10ee2de899189e8f",
+  "active": "43e5627f1116bfe4",
   "lastOpenFiles": [
-    "Computer Systems 1/Networks.md",
-    "Computer Systems 1/Networks 2.md",
-    "Computer Systems 1/Images/tcpip.png",
-    "Computer Systems 1/Images/congestion control.png",
-    "Data Management/Data Management.md",
-    "Data Management/Introduction to UNIX.md",
-    "Algorithmics/Know how long a program takes.md",
-    "Data Management",
-    "Algorithmics/Algorithms.md",
+    "Software Modelling and Design/Requirements Gathering 2.md",
+    "Software Modelling and Design/Images/Bootstrapping model or smth.png",
+    "Software Modelling and Design/Requirements Gathering.md",
+    "Software Modelling and Design/Images",
+    "Software Modelling and Design/Images/Requirements.png",
+    "Software Modelling and Design/Software Modelling and Design.md",
     "Untitled.md",
+    "Software Modelling and Design",
+    "Computer Systems 1/Arithmetic/Arithmetic 3.md",
+    "Data Management/Introduction to UNIX.md",
+    "Data Management/Data Management.md",
+    "Data Management",
+    "Algorithmics/Know how long a program takes.md",
+    "Algorithmics/Algorithms.md",
     "Algorithmics",
+    "Computer Systems 1/Arithmetic/Arithmetic 2.md",
+    "Computer Systems 1/Computer Systems 1.md",
+    "Computer Systems 1/Arithmetic/Arithmetic 1.md",
+    "Computer Systems 1/Digital Electronics Intro.md",
+    "Computer Systems 1/Flip flops and Registers.md",
+    "Computer Systems 1/Operating System (part 2).md",
+    "Computer Systems 1/Memory, RAM and Cache.md",
+    "Computer Systems 1/Networks 2.md",
+    "Computer Systems 1/Networks.md",
+    "Pasted image 20240118192802.png",
+    "Pasted image 20240118192820.png",
+    "Computer Systems 1/Chipsets.md",
+    "Computer Systems 1/Modern CPUs.md",
     "Computer Systems 1/Mass Storage.md",
-    "Foundations of CS/Probability and Statistics/Random Variables.md",
+    "Computer Systems 1/Arm Assembly.md",
+    "Computer Systems 1/Instruction Sets 2.md",
+    "Programming 1/Java.md",
+    "Programming 1/Java If statements.md",
+    "Programming 1/JVM.png",
+    "Computer Systems 1/Images/congestion control.png",
+    "Computer Systems 1/Images/tcpip.png",
     "Computer Systems 1/Images/server motherboard.png",
     "Computer Systems 1/Images/chipset2.png",
     "Computer Systems 1/Images/chipset.png",
-    "Computer Systems 1/Chipsets.md",
-    "Foundations of CS/Probability and Statistics/Probability and Statistics.md",
-    "Foundations of CS/Probability and Statistics/Introduction to discrete probability & statistics.md",
-    "Foundations of CS/Probability and Statistics/Distributions.md",
-    "Foundations of CS/Set Theory/Taxonomy of functions and the isomorphism theorem.md",
-    "Foundations of CS/Set Theory/Functions.md",
-    "Foundations of CS/Set Theory/Relations.md",
-    "Foundations of CS/Logic/Intro & Syntax.md",
-    "Foundations of CS/Logic/Natural deduction.md",
-    "Foundations of CS/Logic/Semantics.md",
-    "Foundations of CS/Logic/Predicate Logic.md",
-    "Foundations of CS/Probability and Statistics/The Normal Distribution.md",
-    "Foundations of CS/Combinatorics/Graph theory intro.md",
-    "Foundations of CS/Combinatorics/More counting techniques.md",
-    "Foundations of CS/Combinatorics/Introduction.md",
-    "Foundations of CS/Combinatorics/Combinatorics.md",
-    "Computer Systems 1/Computer Systems 1.md",
-    "Pasted image 20240107171113.png",
+    "Foundations of CS/Probability and Statistics/Untitled",
     "Foundations of CS/Probability and Statistics",
-    "Foundations of CS/Images/prob proof.png",
-    "Foundations of CS/Images/isomorphism.png",
-    "Foundations of CS/Images/Digraph.png",
-    "Computer Systems 1/Images/3 level cache.png",
     "Foundations of CS/Combinatorics",
     "Foundations of CS/Linear Algebra",
     "Foundations of CS/Images",
     "Computer Systems 1/Images",
-    "Foundations of CS/Logic",
-    "Computer Systems 1/Arithmetic",
-    "Untitled.canvas",
-    "Foundations of CS/Set Theory"
+    "Untitled.canvas"
   ]
 }
