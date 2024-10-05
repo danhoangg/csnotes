@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "2194014a0f0b402a",
+        "id": "336cf98e0dd0b4b4",
         "type": "tabs",
         "children": [
           {
-            "id": "43e5627f1116bfe4",
+            "id": "670b01851edcd9f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithmics/Know how long a program takes.md",
+                "file": "Year 2/Interaction Design/Interaction Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fb3e28b3aec56a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Haskell/Haskell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4de4c93cbdf1f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Haskell/Haskell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb7178981be019c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/Intelligent Systems/Problem Solving by (Blind) Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +86,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithmics/Know how long a program takes.md",
+                "file": "Year 2/Intelligent Systems/Problem Solving by (Blind) Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithmics/Know how long a program takes.md",
+                "file": "Year 2/Intelligent Systems/Problem Solving by (Blind) Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithmics/Know how long a program takes.md"
+                "file": "Year 2/Intelligent Systems/Problem Solving by (Blind) Search.md"
               }
             }
           },
@@ -136,17 +173,9 @@
               "type": "graph-analysis",
               "state": {}
             }
-          },
-          {
-            "id": "129066c105a027df",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,53 +192,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43e5627f1116bfe4",
+  "active": "bb7178981be019c5",
   "lastOpenFiles": [
-    "Software Modelling and Design/Requirements Gathering 2.md",
-    "Software Modelling and Design/Images/Bootstrapping model or smth.png",
-    "Software Modelling and Design/Requirements Gathering.md",
-    "Software Modelling and Design/Images",
-    "Software Modelling and Design/Images/Requirements.png",
-    "Software Modelling and Design/Software Modelling and Design.md",
-    "Untitled.md",
-    "Software Modelling and Design",
-    "Computer Systems 1/Arithmetic/Arithmetic 3.md",
-    "Data Management/Introduction to UNIX.md",
-    "Data Management/Data Management.md",
-    "Data Management",
-    "Algorithmics/Know how long a program takes.md",
-    "Algorithmics/Algorithms.md",
-    "Algorithmics",
-    "Computer Systems 1/Arithmetic/Arithmetic 2.md",
-    "Computer Systems 1/Computer Systems 1.md",
-    "Computer Systems 1/Arithmetic/Arithmetic 1.md",
-    "Computer Systems 1/Digital Electronics Intro.md",
-    "Computer Systems 1/Flip flops and Registers.md",
-    "Computer Systems 1/Operating System (part 2).md",
-    "Computer Systems 1/Memory, RAM and Cache.md",
-    "Computer Systems 1/Networks 2.md",
-    "Computer Systems 1/Networks.md",
-    "Pasted image 20240118192802.png",
-    "Pasted image 20240118192820.png",
-    "Computer Systems 1/Chipsets.md",
-    "Computer Systems 1/Modern CPUs.md",
-    "Computer Systems 1/Mass Storage.md",
-    "Computer Systems 1/Arm Assembly.md",
-    "Computer Systems 1/Instruction Sets 2.md",
-    "Programming 1/Java.md",
-    "Programming 1/Java If statements.md",
-    "Programming 1/JVM.png",
-    "Computer Systems 1/Images/congestion control.png",
-    "Computer Systems 1/Images/tcpip.png",
-    "Computer Systems 1/Images/server motherboard.png",
-    "Computer Systems 1/Images/chipset2.png",
-    "Computer Systems 1/Images/chipset.png",
-    "Foundations of CS/Probability and Statistics/Untitled",
-    "Foundations of CS/Probability and Statistics",
-    "Foundations of CS/Combinatorics",
-    "Foundations of CS/Linear Algebra",
-    "Foundations of CS/Images",
-    "Computer Systems 1/Images",
+    "Year 2/Theory of Computing/Automata Theory.md",
+    "Year 2/Theory of Computing/Images/Product construction.png",
+    "Year 2/Intelligent Systems/Problem Solving by (Blind) Search.md",
+    "Year 2/Intelligent Systems",
+    "Year 2/Theory of Computing/Images/formal dfa.png",
+    "Year 2/Theory of Computing/Images/DFA.png",
+    "Year 2/Theory of Computing/Images",
+    "Year 2/Theory of Computing/Theory of Computing.md",
+    "Year 1/Foundations of CS/Logic/Natural deduction.md",
+    "Year 1/Foundations of CS/Logic/Predicate Logic.md",
+    "Year 1/Foundations of CS/Logic/Intro & Syntax.md",
+    "Year 1/Foundations of CS/Logic/Logic.md",
+    "Year 1/Foundations of CS/Logic/Semantics.md",
+    "Year 1/Foundations of CS/Combinatorics/Introduction.md",
+    "Year 2/Interaction Design/Design Process.md",
+    "Year 2/Haskell/Gettings started with Haskell.md",
+    "Year 2/Theory of Computing",
+    "Year 2/Theory of Computing.md",
+    "Year 2/Haskell/Haskell.md",
+    "Year 2/Haskell/Intro to FP.md",
+    "Year 2/Haskell",
+    "Year 2/Interaction Design/Images/Design lifecycle.png",
+    "Year 2/Interaction Design/Images",
+    "Year 2/Interaction Design/Interaction Design.md",
+    "Year 2/Interaction Design",
+    "Year 1/Software Modelling and Design/Requirements Gathering 2.md",
+    "Year 1/Computer Systems 1/Computer Systems 1.md",
+    "Year 1/Algorithmics/Algorithms.md",
+    "Year 1/Algorithmics/Know how long a program takes.md",
+    "Year 1/Computer Systems 1/Networks.md",
+    "Year 1/Computer Systems 1/Mass Storage.md",
+    "Year 1/Computer Systems 1/Chipsets.md",
+    "Year 2",
+    "Year 1",
+    "Year 1/Foundations of CS/Combinatorics/Multinomial Theorem.md",
+    "Year 1/Foundations of CS/Combinatorics/Combinatorics.md",
+    "Year 1/Foundations of CS/Set Theory/Special Relations.md",
+    "Year 1/Software Modelling and Design/Images/Requirements.png",
+    "Year 1/Software Modelling and Design/Images/Bootstrapping model or smth.png",
+    "Year 1/Software Modelling and Design/Images",
+    "Year 1/Software Modelling and Design",
+    "Year 1/Computer Systems 1/Images/tcpip.png",
+    "Year 1/Computer Systems 1/Images/congestion control.png",
+    "Year 1/Computer Systems 1/Images/server motherboard.png",
+    "Year 1/Computer Systems 1/Images/chipset2.png",
     "Untitled.canvas"
   ]
 }

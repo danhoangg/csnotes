@@ -30,10 +30,11 @@ To avoid having to analyse a program with if statements where the second for loo
 ##### Big-O notation
 - $f(n)$ is $O(g(n))$ if there exists constants $d>0$ and $N\in\mathbb{N}$ s.t. $$f(n) \leq dg(n)\;\text{for}\; n\geq N$$
 ##### Big-Omega notation
-- $f(n)$ is $\Omega(g(n))$ if there exists constants $c>0$ and $N\in\mathbb{N}$ s.t. $$f(n) \leq dg(n)\;\text{for}\; n\geq N$$
+- $f(n)$ is $\Omega(g(n))$ if there exists constants $c>0$ and $N\in\mathbb{N}$ s.t. $$f(n) \geq cg(n)\;\text{for}\; n\geq N$$
 - And so $f(n)$ is $\Theta(g(n))$ iff $$f(n) = O(g(n))\;\;\;\text{and}\;\;\; f(n)=\Omega(g(n))$$
 #### Use and Misuse
 
 - Big-O notation is most commonly used
 - Often people say they have a $O(n^2)$ algorithm when in fact they have a $\Theta(n^2)$
 - A $O(n^2)$ algorithm is also a $O(n^3)$ algorithm
+

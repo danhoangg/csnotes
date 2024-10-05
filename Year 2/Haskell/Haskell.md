@@ -1,0 +1,2 @@
+- [[Intro to FP]]
+- [[Gettings started with Haskell]]
