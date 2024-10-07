@@ -1,2 +1,6 @@
 - [[Intro to FP]]
 - [[Gettings started with Haskell]]
+- [[Basic Types]]
+- [[Type Operators]]
+- [[Polymorphic Functions]]
+- [[Defining Functions]]
