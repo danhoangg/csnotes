@@ -57,7 +57,7 @@ flowchart TD
 - An automaton accepts some strings and rejects others
 - e.g. Accepts: $abbab, babbbab$ but rejects $abba, \epsilon$
 **Formally:**
-- A DFA $M = (Q,\sum,\delta,s,F):$
+- A DFA $M = (Q,\Sigma,\delta,s,F):$
 	- $Q$ is a finite set of states
 	- $\sum$ is an alphabet
 	- $\delta : Q \times \sum\to Q$ is the transition function
@@ -69,7 +69,7 @@ flowchart TD
 
 ### Regular Languages
 **Formal Definition:**
-$$\text{For a DFA }\;M = (Q,\sum,\delta,s,F)\text{, its language }L(M)\;\text{is the set of all strings accepted by }M:$$
+$$\text{For a DFA }\;M = (Q,\Sigma,\delta,s,F)\text{, its language }L(M)\;\text{is the set of all strings accepted by }M:$$
 $$L(M)=\{x\in\Sigma^*\;|\;\exists f\in F.s\xrightarrow{x}f\}$$
 **Explanation**
 - $L(M)$ is the set of all strings that are accepted by a DFA $M$

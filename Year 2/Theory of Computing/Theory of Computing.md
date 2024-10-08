@@ -1,3 +1,5 @@
 - [[Automata Theory]]
 - [[Nondeterminism and the subset construction]]
 - [[The Subset Construction and εNFAs]] 
+- [[Regular Expressions and Kleene's Theorem]]
+- [[Kleene's Theorem]]
